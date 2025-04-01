@@ -36,4 +36,3 @@ graph TD;
     V --> W[Student Profile Update];
     W --> X[Learning Progress Tracking];
     X --> Y[Weakness/Strength Analysis];
-```
