@@ -1,5 +1,3 @@
-
-
 # AI Teaching Tutor
 
 ## Project Overview
@@ -7,6 +5,7 @@ This project is an AI-powered teaching assistant designed to process text and vo
 
 ## Flowchart
 Below is the flowchart describing the AI tutor's workflow:
+
 
 ```mermaid
 graph TD;
